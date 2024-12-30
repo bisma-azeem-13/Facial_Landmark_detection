@@ -1,3 +1,5 @@
+#This file is to understand the basics and working components of facial landmark detection project
+
 import cv2
 import mediapipe as mp #for efficient processing of multimedia data, enabling real-time applications
 import time #for frame rate
